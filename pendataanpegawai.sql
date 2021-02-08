@@ -1,5 +1,5 @@
-﻿# Host: localhost  (Version 5.5.5-10.4.17-MariaDB)
-# Date: 2021-01-20 17:29:27
+# Host: localhost  (Version 5.5.5-10.4.17-MariaDB)
+# Date: 2021-02-08 10:48:51
 # Generator: MySQL-Front 6.1  (Build 1.26)
 
 
@@ -64,7 +64,7 @@ CREATE TABLE `tb_pegawai` (
 # Data for table "tb_pegawai"
 #
 
-INSERT INTO `tb_pegawai` VALUES (1,'Juny','Prayoga','Jakarta','laki-laki','2002-06-03','Islam','juny@gmail.com','08765456545','Jalan panjangg','6007eae2a96de.jpg'),(2,'fatima','puspa','jakarta','perempuan','2002-01-08','Islam','fafa@gmail.com','087654565433','jalan pondok bintaro','6007e640c4c9a.jpg'),(3,'afif','jovi','padang panjanag','laki-laki','1998-06-04','Islam','afif@gmail.com','087654565432','jalan kembangan','6007e640c4c9a.jpg'),(4,'bambang','Sucipto','Jawa','laki-laki','2002-06-04','Islam','bams@gmail.com','087654345623','jalan legok','6007e640c4c9a.jpg'),(5,'Ilham','Pratama','Jawa','laki-laki','2002-07-01','Islam','ilham@gmail.com','081234576788','jalan graha raya','6007e640c4c9a.jpg'),(6,'Alpha','Gustiana','Bandung','laki-laki','2002-06-04','Islam','alpha@gmail.com','086545672898','jalan bandung raya','6007e640c4c9a.jpg'),(7,'Muhammad','Imron','Jawa','laki-laki','2000-01-20','Islam','imron@gmail.com','086545676532','jalan kebayoran lama','6007e640c4c9a.jpg');
+INSERT INTO `tb_pegawai` VALUES (1,'Ahmad','Prayoga','Jakarta','laki-laki','2002-06-03','Islam','juny@gmail.com','08765456545','Jalan panjangg','6007eae2a96de.jpg');
 
 #
 # Structure for table "tb_kontrak"
@@ -90,4 +90,4 @@ CREATE TABLE `tb_kontrak` (
 # Data for table "tb_kontrak"
 #
 
-INSERT INTO `tb_kontrak` VALUES (1,1,1,'3 tahun','2021-01-17 21:26:20','2021-01-17','2023-12-17'),(2,2,2,'1 tahun','2021-01-18 10:29:56','2021-01-18','2022-01-18'),(4,4,4,'2 tahun','0000-00-00 00:00:00','2021-01-18','2023-01-18'),(6,6,5,'5 tahun','0000-00-00 00:00:00','2021-01-18','2026-01-18'),(8,3,5,'1 bulan','0000-00-00 00:00:00','2021-01-18','2021-02-18');
+INSERT INTO `tb_kontrak` VALUES (1,1,1,'3 tahun','2021-01-17 21:26:20','2021-01-17','2023-12-17');
